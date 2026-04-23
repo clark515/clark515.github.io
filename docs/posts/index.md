@@ -2,7 +2,7 @@
 
 ## 2026
 
-- [2026-04-23 · MCP 协议安全初探](/posts/2026-04-23-mcp-security-intro)
+- [2026-04-23 · MCP 与智能体平台安全初探](/posts/2026-04-23-mcp-security-intro)
 
 ---
 
